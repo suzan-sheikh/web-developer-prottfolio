@@ -210,3 +210,41 @@ hr {
   text-align: center;
   margin: 50px 0px;
 }
+
+
+/* footer ares */
+
+footer{
+  display: flex;
+  background: #FFF8F3;
+  padding: 130px 230px;
+  margin-top: 100px;
+  gap: 100px;
+  align-content: space-between;
+}
+.footer-clume{
+  width: 50%;
+}
+.s-title{
+  text-align: left;
+}
+.section-description{
+  font-size: 12px;
+  color: #474747;
+}
+.ocial-link{
+  margin-right: 25px;
+}
+
+
+
+
+.contact input[type="text"], .contact input[type="email"], textarea{
+  display: block;
+  margin: 20px 0px;
+  padding: 18px 35px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+}
