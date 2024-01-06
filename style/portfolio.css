@@ -1,4 +1,9 @@
 /* common shared styles */
+*{
+  padding: 0;
+  margin: 0;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
 }
@@ -22,6 +27,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   margin: 0px 200px;
+  padding-top: 10px;
 }
 
 .nav-title {
